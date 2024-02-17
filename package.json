@@ -7,10 +7,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "coding-inspiration",
+    "motivational-quotes",
+    "coding-motivation",
+    "developer-tools",
+    "npm-package",
+    "beginner-friendly"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Omi-Patel/motivatejs"
   }
 }
